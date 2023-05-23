@@ -1,4 +1,4 @@
-# PS_Where-Attribute
+# Where-Attribute
 
 find attributes matching a certain value
 
